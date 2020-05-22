@@ -1,0 +1,21 @@
+{
+  "name": "heroku",
+  "version": "1.0.0",
+  "description": "This example for hosting heroku application.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "kishan-rathod",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.16.1"
+  }
+}
